@@ -90,7 +90,7 @@ button{
 }
 .right{
     display: flex;
-    width: 43vw;
+    width: 45vw;
     padding: 3%;
     /* margin: 5%; */
     background-color: rgb(250, 94, 73);
