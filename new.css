@@ -1,0 +1,118 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 1%;
+}
+.first{
+background-image: url(firstpic3.jpeg);
+background-size: cover;
+width: 100%;
+height: 50vh;
+margin: 0% 0%;
+text-align: center;
+padding: 15vh 0%;
+color: white;
+}
+.simple{
+    font-size: 4vw;
+    padding: 15px;
+}
+.welcome{
+    font-size: 2vw;
+    padding-bottom: 25px;
+}
+.join{
+    height: 6.5vh;
+    padding: 12px;
+    justify-items: center;
+    width: 20vw;
+    background-color: red;
+    margin: auto;
+    font-size: 2vw;
+
+}
+.faith{
+    font-size:3.5vw;
+    text-align: center;
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.article{
+    display: flex;
+    height: 50vh;
+    padding: 1%;
+}
+section{
+    margin: 1%;
+    width: 31%;
+    height: 10vh;
+    text-align: center;
+    font-size: 1em;
+}
+.location{
+    display: flex;
+    background-color: rgb(250, 94, 73);
+}
+sect{
+width: 30%;
+margin: 2%;
+color: white;
+padding: 1%;
+font-size: 2.2vw;
+}
+
+li{
+    list-style-type: circle;
+    
+}
+button{
+    width: 25vw;
+    height: 8vh;
+    background-color: rgb(250, 94, 73);
+    color: white;
+    border: 2px solid white;
+}
+.con{
+    display: flex;
+    font-size: 2vw;
+    background-color: rgb(240, 235, 235);
+    padding: 5%;
+}
+.left{
+    padding: 3%;
+    background-color: white;
+    width: 50vw; 
+    margin-right: 5%;
+    height: auto;
+}
+.right{
+    display: flex;
+    width: 40vw;
+    padding: 3%;
+    /* margin: 5%; */
+    background-color: rgb(250, 94, 73);
+    height: auto;
+}
+.time{
+    margin: 5%;
+}
+.image{
+    width: 100%;
+    height: 25vh;
+    background-color: blue;
+}
+.one{
+    background-image: url(thirdpic.jpeg);
+    background-size: cover;
+}
+.two{
+    background-image: url(fourthpic.jpeg);
+    background-size: cover;
+}
+.three{
+    background-image: url(fifthpic.jpeg);
+    background-size: cover;
+}
